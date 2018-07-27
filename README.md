@@ -1,2 +1,0 @@
-# KyleStyle
-My First Repository
