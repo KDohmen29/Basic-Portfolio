@@ -1,0 +1,63 @@
+body {
+    background-image: url("file:///Users/kylestyle/Documents/Basic-Portfolio/assets/images/old_moon.png");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    margin: 0px auto;
+    padding-top:0px;
+    width: 960px;
+}
+header {
+    background-color: #0CADA7;
+    float: left;
+    position: fixed;
+    margin-left:15px;
+    padding-right: 20px;
+    padding-left: 20px;
+    
+}
+nav {
+    color: black
+    float: right;
+    background-color: #FFFFFF;
+    width: 930px;
+    height: 75px;
+    text-align: right;
+    margin-top: 0px;
+    padding-top:30px;
+    padding-right: 30px;
+
+}
+
+}
+section {
+    background-color: #FFFFFF;
+    height: 330px;
+}
+    
+section h1 {
+    color: #0cada7;
+    background-color: #FFFFFF;
+    margin-top:20px;
+    
+
+}
+section img {
+    float: left;
+    margin: 20px 20px;
+}
+p {
+    margin-top: 28px;
+    margin-right: 20px;
+}
+.contain {
+    background-color: #FFFFFF;
+    height: 330px;
+}
+.background {
+    background-color: #FFFFFF;
+    height: 50px;
+    padding-top: 30px;
+}
+hr {
+    width: 900px;
+}
